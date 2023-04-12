@@ -237,12 +237,16 @@ padding-right:4rem;
   justify-content:center;
   text-align:center;
   padding-top:6rem;
+  font-size: 3rem;
  }
  .container-about{
   width:100%;
   display:flex;
   flex-wrap:wrap;
   gap:15px;
+ }
+ main{
+  width:100%;
  }
  #main-footer{
   width:100%;
