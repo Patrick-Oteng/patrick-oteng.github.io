@@ -240,6 +240,9 @@ padding-right:4rem;
   padding-top:6rem;
   font-size: 2rem;
  }
+ #main-container{
+  width: 100%;
+ }
  .container-about{
   width:100vw;
   display:flex;
@@ -248,7 +251,7 @@ padding-right:4rem;
  }
 
  #main-footer{
-  width:10vw;
+  width:100vw;
   display:flex;
   flex-wrap: wrap;
   gap:15px;
