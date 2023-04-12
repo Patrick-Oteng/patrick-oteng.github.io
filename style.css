@@ -232,26 +232,23 @@ padding-right:4rem;
   border-bottom: 5px solid var(--treedom2);
  }
  #welcome-section{
-  width:100%;
+  width:100vw;
   display:flex;
   align-items:center;
   justify-content:center;
   text-align:center;
   padding-top:6rem;
-  font-size: 3rem;
+  font-size: 2rem;
  }
  .container-about{
-  width:100%;
+  width:100vw;
   display:flex;
   flex-wrap:wrap;
   gap:15px;
  }
- main{
-  width:100%;
-  margin-right:0;
- }
+
  #main-footer{
-  width:100%;
+  width:10vw;
   display:flex;
   flex-wrap: wrap;
   gap:15px;
