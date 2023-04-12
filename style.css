@@ -223,6 +223,7 @@ padding-right:4rem;
   display:flex;
   flex-wrap: wrap;
   row-gap:15px;
+  padding-left:2rem;
  }
  #navbar ul li a:hover{
   background-color:var(--color2);
@@ -247,6 +248,7 @@ padding-right:4rem;
  }
  main{
   width:100%;
+  margin-right:0;
  }
  #main-footer{
   width:100%;
