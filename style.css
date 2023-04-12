@@ -316,3 +316,33 @@ padding-right:4rem;
   gap:15px;
  }
 }
+
+@media only screen and (max-width:480px){
+ html{
+  font-size:60%;
+ }
+ #main-footer{
+  width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  gap: 5px;
+ }
+
+ #projects{
+  width:100%;
+  padding:4rem 4rem;
+ }
+ #Contact{
+  width:100%;
+  
+  text-align:center;
+  padding:4rem 4rem;
+ }
+ #About{
+  width:100%;
+ }
+#welcome-section{
+ width:100%;
+ padding:4rem 4rem;
+}
+}
